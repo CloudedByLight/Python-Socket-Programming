@@ -1,0 +1,11 @@
+John|43|123 Apple street|514 428-3452
+Katya|        26   |49 Queen Mary Road|514 234-7654
+Ahmad|91|1888 Pepper Lane|
+Ahmad|43|67 Drury Lane|897-3456
+Billy|199|123 Apple Street|435-456-5768
+Bob|26|123 Doop Road|345-5678
+Donna|35|Here Road|564-6879
+John|34|ABC Street|768-3245
+Nancy|21|Stuffy Street|345-7896
+sue|45|Happy Lane|456-3245
+|1477|Mercantile St|663-6273
